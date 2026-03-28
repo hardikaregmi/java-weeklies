@@ -1,4 +1,4 @@
-# Java Weeklies 2025
+# Java Weeklies
 
 Hi, I’m Hardika.  
 I’m studying Computer Science at the University of Southern Mississippi.  
